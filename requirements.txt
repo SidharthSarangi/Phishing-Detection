@@ -70,4 +70,4 @@ virtualenv==20.23.1
 wcwidth==0.2.6
 Werkzeug==2.2.3
 whois==0.9.27
-pywin32==30
+
